@@ -26,7 +26,7 @@ Couple custom dark themes for inspiration.
    
 ## Installation
 
-1. `git clone https://github.com/madzadev/landing-page.git`
+1. `git clone https://github.com/acarbonegit push -u origin main/landing.git`
 
 2. Open `index.html`. That's it!
 
